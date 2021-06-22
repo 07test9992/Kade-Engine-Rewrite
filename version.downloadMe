@@ -9,3 +9,8 @@
 - Change how replays work + store scroll speed and direction in replays
 - Opponent strumline now lights up when they hit a note, like the player's does
 - Now using the new recharts from Funkin v0.2.8
+
+
+1.5.8;
+ - No more bugs
+ - Adding loading screen soon
